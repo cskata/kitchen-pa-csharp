@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using KitchenManagement.Staff;
 using System.Linq;
-using static KitchenManagement.Staff.Chef;
 
 namespace KitchenManagement.Kithcen
 {
